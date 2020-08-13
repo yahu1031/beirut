@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "904019130881",
+    "firebase_url": "https://beirut-tracking-app-83bd8.firebaseio.com",
+    "project_id": "beirut-tracking-app-83bd8",
+    "storage_bucket": "beirut-tracking-app-83bd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904019130881:android:26ab153cd3b960814b1e00",
+        "android_client_info": {
+          "package_name": "com.tracking.beirut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904019130881-mkaq6m3o97430kms2jc9ovhfblpnp5b7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKFqotnpUXJYMjQWKb1SCARj5mxakUuJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904019130881-mkaq6m3o97430kms2jc9ovhfblpnp5b7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
